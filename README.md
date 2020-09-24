@@ -1,0 +1,3 @@
+# KIDDo
+
+An Android Project 
